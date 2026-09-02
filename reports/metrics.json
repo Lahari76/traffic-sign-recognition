@@ -1,0 +1,7 @@
+{
+  "test_loss": 0.01723986677825451,
+  "test_accuracy": 0.9984984993934631,
+  "training_samples": 21312,
+  "validation_samples": 2664,
+  "test_samples": 2664
+}
